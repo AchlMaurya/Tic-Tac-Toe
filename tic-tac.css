@@ -15,6 +15,15 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+h1{
+    font-size: 40px;
+    height: 40px;
+    margin: 15px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .game{
     height: 60vmin;
     width: 60vmin;
